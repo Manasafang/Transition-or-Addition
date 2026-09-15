@@ -216,6 +216,7 @@
 ## 10. ทีมงานและเครดิต
 
 **กลุ่ม: OUT OF TOKEN**
+
 **แหล่งข้อมูล:** Our World in Data / Ember Climate — Electricity Generation by Country and Source (2000–2025)
 
 ---
