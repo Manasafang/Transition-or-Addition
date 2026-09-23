@@ -11,19 +11,19 @@
 
 ---
 ## สารบัญ (Table of Contents)
-- [ที่มาของคำถาม](#background)
-- [ข้อมูลและขอบเขตการวิเคราะห์](#data-scope)
+- ▤ [ที่มาของคำถาม](#background)
+- ▤ [ข้อมูลและขอบเขตการวิเคราะห์](#data-scope)
     - [Dataset Schema](#dataset-schema)
-- [นิยาม: Transition vs Addition](#definitions)
-- [วิเคราะห์ข้อมูลภาพรวมทั่วโลก](#global-overview)
-- [5-Year Rolling Window: มองแนวโน้ม](#rolling-window)
-- [วิเคราะห์ข้อมูลระดับภูมิภาค](#regional)
-- [วิเคราะห์ข้อมูลระดับประเทศ](#country-level)
-- [Insight และข้อเสนอแนะ](#insights)
-- [บทสรุป](#summary)
-- [Repository Structure](#repo-structure)
-- [How to Run / Reproduce](#how-to-run)
-- [ทีมงานและเครดิต](#credits)
+- ✎ [นิยาม: Transition vs Addition](#definitions)
+- ✎ [วิเคราะห์ข้อมูลภาพรวมทั่วโลก](#global-overview)
+- ✎ [5-Year Rolling Window: มองแนวโน้ม](#rolling-window)
+- ✎ [วิเคราะห์ข้อมูลระดับภูมิภาค](#regional)
+- ✎ [วิเคราะห์ข้อมูลระดับประเทศ](#country-level)
+- ✎ [Insight และข้อเสนอแนะ](#insights)
+- ✎ [บทสรุป](#summary)
+- ◆ [Repository Structure](#repo-structure)
+- ◆ [How to Run / Reproduce](#how-to-run)
+- ◆ [ทีมงานและเครดิต](#credits)
 
 ---
 <a id="background"></a>
@@ -41,7 +41,7 @@
 
 ---
 <a id="data-scope"></a>
-## ข้อมูลและขอบเขตการวิเคราะห์ 
+## 📝 ข้อมูลและขอบเขตการวิเคราะห์ 
 
 | | |
 |---|---|
@@ -262,7 +262,7 @@
 
 ---
 <a id="repo-structure"></a>
-## Repository Structure
+## 📦 Repository Structure
 
 ```
 Transition-or-Addition/
@@ -280,7 +280,7 @@ Transition-or-Addition/
 
 ---
 <a id="how-to-run"></a>
-## How to Run / Reproduce
+## 📦 How to Run / Reproduce
 
 ### 1. ติดตั้งไลบรารีที่จำเป็น
 
@@ -300,7 +300,7 @@ pip install pandas numpy matplotlib seaborn geopandas flagpy plottable pillow
 
 ---
 <a id="credits"></a>
-## ทีมงานและเครดิต
+## 📦 ทีมงานและเครดิต
 
 **กลุ่ม: OUT OF TOKEN**
 
