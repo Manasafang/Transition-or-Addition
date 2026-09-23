@@ -19,7 +19,7 @@
 - [5-Year Rolling Window: มองแนวโน้ม](#rolling-window)
 - [วิเคราะห์ข้อมูลระดับภูมิภาค](#regional)
 - [วิเคราะห์ข้อมูลระดับประเทศ](#country-level)
-- [Insight เด่นและข้อเสนอแนะ](#insights)
+- [Insight และข้อเสนอแนะ](#insights)
 - [บทสรุป](#summary)
 - [Repository Structure](#repo-structure)
 - [How to Run / Reproduce](#how-to-run)
@@ -238,7 +238,7 @@ Figure 6: รูปแบบ Transition และ Addition จำแนกตา
 
 ---
 <a id="insights"></a>
-## Insight เด่นและข้อเสนอแนะ
+## Insight และข้อเสนอแนะ
 
 | Insight | So What | Action Plan |
 |---|---|---|
