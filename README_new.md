@@ -13,8 +13,20 @@
 ---
 ## สารบัญ (Table of Contents)
 
+- [คำถามวิจัย (Research Questions)](#research-questions)
+- [ที่มาของคำถาม (Origins of a Research Question)](#s1)
+- [ข้อมูลและขอบเขตการวิเคราะห์ (Dataset and Scope of Analysis)](#s2)
+- [นิยามของคำว่าการเปลี่ยนผ่านและการเพิ่มเติม (Definition of Transition and Addition)](#s3)
+- [วิเคราะห์ข้อมูลภาพรวมทั่วโลก (Global Perspective)](#global-overview)
+- [5-Year Rolling Window: Trend Analysis](#rolling-window)
+- [วิเคราะห์ข้อมูลระดับภูมิภาค (Regional Comparison)](#regional)
+- [วิเคราะห์ข้อมูลระดับประเทศ (Country-Level Analysis)](#country-level)
+- [สองกลุ่มต่างกันตรงไหน เมื่อเทียบเป็นสัดส่วน (What Separates the Two Groups in Proportion?)](#slow-build)
+- [บทสรุป (Summary)](#s10)
+- [ทีมงานและเครดิต](#s11)
 
 ---
+<a id="research-questions"></a>
 ## คำถามวิจัย (Research Questions)
 
 🌟 **พลังงานหมุนเวียนที่โตขึ้น กำลัง "เปลี่ยนผ่าน" จากเชื้อเพลิงฟอสซิล หรือแค่ "เพิ่มเติม" พลังงานเข้าระบบเพื่อรองรับความต้องการไฟฟ้าที่มากขึ้น?** คำถามนี้มีสองส่วน คือ เชื้อเพลิงฟอสซิลลดลงจริงหรือไม่ และถ้ายังไม่ลด เป็นเพราะต้องรองรับความต้องการที่โตขึ้นจริงหรือไม่?
