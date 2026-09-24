@@ -54,6 +54,7 @@
 แบ่งการเปลี่ยนแปลงเป็น 4 แบบ ตามทิศทางของพลังงานหมุนเวียน และเชื้อเพลิงฟอสซิลในช่วงเวลาเดียวกัน
 
 **Table 1: นิยาม 4 กรณี Transition / Addition / Decline / Fossil Expansion (Quadrant Definition Matrix)**
+
 **Table 2: ความหมายของประเภทการเปลี่ยนแปลงตามเกณฑ์การจำแนก (Quadrant Meaning Description)**
 
 ![Table 1-2](images/table1-2.png)
@@ -79,6 +80,7 @@
 
 ---
 **Figure 2: ฟอสซิลกับพลังงานหมุนเวียนเติบโตไปพร้อมกัน (Fossil vs Renewable Generation)**
+
 **Figure 3: ฟอสซิลโตมากกว่าพลังงานหมุนเวียน (Incremental Growth Comparison, 2000→2024)**
 
 ![Figure 2-3(images/figure2-3.png)
