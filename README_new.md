@@ -1,6 +1,6 @@
 # Transition or Addition?
 
-### Uncovering How Renewable Growth Is Reshaping the Global Power System
+### Uncovering How Renewable Growth Is Reshaping the Global Power System 🌎
 
 โปรเจกต์นี้วิเคราะห์ข้อมูลการผลิตไฟฟ้าทั่วโลกในช่วงปี 2000–2024 เพื่อสำรวจว่า **การเติบโตของพลังงานหมุนเวียนกำลังเปลี่ยนแปลงโครงสร้างของระบบผลิตไฟฟ้าโลกอย่างไร** ทั้งในแง่ของความสัมพันธ์กับการผลิตไฟฟ้าจากเชื้อเพลิงฟอสซิล การเปลี่ยนแปลงในแต่ละช่วงเวลา และความแตกต่างระหว่างประเทศ
 
