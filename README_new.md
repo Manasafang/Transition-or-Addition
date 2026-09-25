@@ -105,8 +105,6 @@
 <a id="rolling-window"></a>
 ## 5-Year Rolling Window: Trend Analysis
 
-เทียบแค่จุดเริ่มกับจุดจบ อาจพลาดเรื่องราวระหว่างทาง จึงใช้เทคนิค **5-Year Rolling Window** ดูการเปลี่ยนแปลงทีละช่วง 5 ปีที่เลื่อนไปเรื่อย ๆ
-
 **Figure 4: จุดเปลี่ยนปี 2016 พลังงานหมุนเวียนแซงฟอสซิล (5-Year Rolling Window: Share of New Generation)**
 
 ![Figure 4](images/figure4.png)
