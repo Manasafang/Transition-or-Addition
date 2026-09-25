@@ -196,6 +196,21 @@
 
 - ภาพที่ 8: แสดง 10 อันดับแรกของแต่ละกลุ่ม (การเปลี่ยนผ่าน 53 ประเทศ, การเพิ่มเติม 133 ประเทศ) เรียงตามพลังงานหมุนเวียนที่เพิ่มขึ้น แถวสีเหลืองคือประเทศไทย ตัวเลขในวงเล็บคืออันดับในกลุ่มการเพิ่มเติม สีส้ม = เชื้อเพลิงฟอสซิล สีเขียว = พลังงานหมุนเวียน | แท่งทึบ = ค่าเพิ่มขึ้น (บวก) แท่งลายเส้น = ค่าลดลง (ติดลบ) | ทั้งสองกราฟใช้สเกลเดียวกัน จึงเทียบความยาวแท่งข้ามกราฟได้ แท่งที่มีรอยขาดถูกตัดเพื่อย่อขนาด แต่ตัวเลขข้างแท่งคือค่าจริง
 
+<details>
+<summary> 📑ผลการจัดกลุ่มของทุกประเทศ </summary>
+
+
+- **Transition:** United States, Germany, United Kingdom, Spain, France, Italy, Australia, Netherlands, Poland, Canada, Sweden, Portugal, Belgium, Denmark, Austria, Greece, Ethiopia, Finland, Switzerland, Ireland, Hungary, Kenya, Venezuela, Czechia, New Zealand, Romania, Nepal, Bulgaria, Uruguay, Lithuania, Croatia, Costa Rica, El Salvador, Albania, Estonia, Slovenia, Slovakia, Nicaragua, Lebanon, North Macedonia, Luxembourg, Puerto Rico, Malawi, Afghanistan, Kyrgyzstan, Malta, Greenland, Jamaica, Macao, Namibia, Sierra Leone, Guam, Djibouti, Cook Islands, American Samoa
+
+- **Addition:** China, Brazil, India, Japan, Turkey, Vietnam, South Korea, Russia, Pakistan, Indonesia, Chile, Laos, Mexico, Malaysia, South Africa, Taiwan, Argentina, Thailand, Colombia, Peru, Iran, Ecuador, United Arab Emirates, Norway, Egypt, Iceland, Israel, Angola, Sudan, Kazakhstan, Democratic Republic of Congo, Saudi Arabia, Zambia, Morocco, Uzbekistan, Bhutan, Myanmar, Guatemala, North Korea, Tajikistan, Mozambique, Sri Lanka, Philippines, Panama, Jordan, Cambodia, Georgia, Honduras, Uganda, Nigeria, Dominican Republic, Zimbabwe, Guinea, Bolivia, Singapore, Oman, Qatar, Ghana, Kuwait, Serbia, Cameroon, Latvia, Iraq, Azerbaijan, Armenia, Senegal, Cyprus, Belarus, Cote d'Ivoire, Bosnia and Herzegovina, Algeria, Bangladesh, Mali, Tunisia, Congo, Mongolia, Tanzania, Yemen, Kosovo, Madagascar, Rwanda, Mauritania, Hong Kong, Equatorial Guinea, Palestine, New Caledonia, Belize, Liberia, Burundi, Moldova, Suriname, Papua New Guinea, Burkina Faso, Fiji, Aruba, Cape Verde, French Polynesia, Gabon, Togo, Bahrain, Barbados, Seychelles, Mauritius, Somalia, Maldives, Eritrea, Benin, Guyana, Niger, Samoa, Antigua and Barbuda, Cayman Islands, Bahamas, Saint Kitts and Nevis, Chad, Libya, Botswana, Brunei, Turks and Caicos Islands, Tonga, Solomon Islands, Kiribati, Nauru, Saint Lucia, Turkmenistan
+
+- **Fossil Expansion:** Gambia, Gibraltar, Grenada, Guinea-Bissau, Bermuda, Trinidad and Tobago, Saint Vincent and the Grenadines, Eswatini, Haiti, Cuba, Syria
+
+- **Decline:** Montserrat, Lesotho, Paraguay
+
+*จัดกลุ่มตามนิยามใน Table 1 (พลังงานหมุนเวียนและเชื้อเพลิงฟอสซิลที่เปลี่ยนแปลง ปี 2000 → 2024) เรียงตามพลังงานหมุนเวียนที่เพิ่มขึ้นจากมากไปน้อยในแต่ละกลุ่ม ชื่อประเทศเป็นภาษาอังกฤษให้ตรงกับภาพที่ 8–10*
+
+</details>
 
 ---
 **Map 1: ประเทศที่อยู่ในกลุ่ม Transition อยู่ที่ไหน (World Map of Transition Pattern)**
@@ -223,9 +238,6 @@
 | ไทย | Addition | +23 | **+24%** | +109% |
 
 เรียงตาม TWh สหรัฐฯ ดูเหมือนสร้างหมุนเวียนน้อยกว่าจีนหรือบราซิลมาก แต่เมื่อคิดเป็นสัดส่วนของขนาดระบบไฟฟ้าของตัวเอง สหรัฐฯ (+19%) กลับสร้าง**น้อยกว่า**เยอรมนี สหราชอาณาจักร จีน และบราซิลทั้งหมด ทั้งที่สหรัฐฯ เป็น Transition และอีกสี่ประเทศอยู่ทั้งสองกลุ่ม อันดับจึงสับกันไปมา ไม่ได้เรียงตามกลุ่มเลย นี่คือสัญญาณว่า **หมุนเวียนที่เพิ่ม (เป็นสัดส่วน) อาจไม่ใช่คำตอบของคำถามข้างบน** ส่วนคอลัมน์ขวาสุด (ความต้องการที่โต) ดูเหมือนจะเรียงตามกลุ่มได้ดีกว่า แต่ 6 ประเทศนี้เป็นตัวอย่างเท่านั้น ส่วนนี้จึงตรวจกับทุกประเทศในกลุ่ม Transition และ Addition ว่าเป็นแบบนี้จริงหรือไม่
-
-
-
 
 
 
