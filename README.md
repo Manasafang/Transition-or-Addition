@@ -247,7 +247,7 @@
 </details>
 
 ---
-**Figure 8: แต่ละประเทศอยู่ตรงไหน (Where Each Country Sits: Renewable Growth vs Demand Growth)**
+**Figure 8: พลังงานหมุนเวียนตามทันความต้องการไฟฟ้าหรือไม่ (Does Renewable Growth Keep Up with Demand?)**
 
 ![Figure 8](images/figure8.png)
 
