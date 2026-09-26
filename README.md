@@ -23,7 +23,7 @@
 - [5-Year Rolling Window: Trend Analysis](#rolling-window)
 - [วิเคราะห์ข้อมูลระดับทวีป (Regional Comparison)](#regional)
 - [วิเคราะห์ข้อมูลระดับประเทศ (Country-Level Analysis)](#country-level)
-- [สองกลุ่มต่างกันตรงไหน เมื่อเทียบเป็นสัดส่วน (Comparing the Characteristics of the Two Patterns?)](#slow-build)
+- [สองกลุ่มต่างกันตรงไหน (Comparing the Characteristics of the Two Patterns?)](#slow-build)
 - [บทสรุป (Summary)](#s10)
 - [ทีมงานและเครดิต](#s11)
 
