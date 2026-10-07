@@ -71,7 +71,7 @@
 
 แบ่งการเปลี่ยนแปลงเป็น 4 แบบ ตามทิศทางของพลังงานหมุนเวียนและเชื้อเพลิงฟอสซิลในช่วงเวลาเดียวกัน ดัง Table 1
 
-### Table 1: เกณฑ์การจำแนกรูปแบบการเปลี่ยนแปลง 4 กรณี (Quadrant Definition Matrix)Quadrant Definition Matrix)
+** Table 1: เกณฑ์การจำแนกรูปแบบการเปลี่ยนแปลง 4 กรณี (Quadrant Definition Matrix)Quadrant Definition Matrix)
 
 ![Table 1-2](images/table1-2.png)
 
