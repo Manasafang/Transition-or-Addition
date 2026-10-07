@@ -55,7 +55,6 @@
 <a id="s2"></a>
 ## ข้อมูลและขอบเขตการวิเคราะห์ (Dataset and Scope of Analysis)
 
-|                   |                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------- |
 | **ชุดข้อมูล**     | Electricity Generation by Country and Source (2000–2025)                                    |
 | **แหล่งที่มา**    | Our World in Data / Ember Climate                                                           |
