@@ -121,8 +121,6 @@ $$\Delta RE_i = RE_{i,2024} - RE_{i,2000} \qquad \Delta Fossil_i = Fossil_{i,202
 ---
 **Figure 2-3: การผลิตไฟฟ้าทั่วโลกจำแนกตามประเภทพลังงาน (Fossil vs Renewable Generation and Incremental Growth, 2000→2024)**
 
-**Figure 3: เชื้อเพลิงฟอสซิลโตมากกว่าพลังงานหมุนเวียน (Incremental Growth Comparison, 2000→2024)**
-
 ![Figure 2-3](images/figure2-3.png)
 
 - ภาพที่ 2(รูปซ้าย): ปริมาณการผลิตไฟฟ้ารายปีจากเชื้อเพลิงฟอสซิลเทียบกับพลังงานหมุนเวียน ปี 2000–2024 (แสดงเป็น Stacked Area วางซ้อนกันในแต่ละปีเพื่อดูยอดรวมของปีนั้น หน่วย TWh)
