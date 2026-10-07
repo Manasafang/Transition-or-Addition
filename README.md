@@ -92,7 +92,6 @@ $$\Delta RE_i = RE_{i,2024} - RE_{i,2000} \qquad \Delta Fossil_i = Fossil_{i,202
 | Fossil Expansion | ΔRE < 0 และ ΔFossil ≥ 0 |
 | Decline (การลดลงทั้งคู่) | ΔRE < 0 และ ΔFossil < 0 |
 </details>
----
 <a id="global-overview"></a>
 ## วิเคราะห์ข้อมูลภาพรวมทั่วโลก (Global Perspective)
 
