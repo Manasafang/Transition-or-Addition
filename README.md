@@ -69,9 +69,9 @@
 <a id="s3"></a>
 ## นิยามของคำว่าการเปลี่ยนผ่านและการเพิ่มเติม (Definition of Transition and Addition)
 
-แบ่งการเปลี่ยนแปลงเป็น 4 แบบ ตามทิศทางของพลังงานหมุนเวียนและเชื้อเพลิงฟอสซิลในช่วงเวลาเดียวกัน ดังตารางที่ 1
+แบ่งการเปลี่ยนแปลงเป็น 4 แบบ ตามทิศทางของพลังงานหมุนเวียนและเชื้อเพลิงฟอสซิลในช่วงเวลาเดียวกัน ดัง Table 1
 
-**ตารางที่ 1** เกณฑ์การจำแนกรูปแบบการเปลี่ยนแปลงของระบบไฟฟ้า 4 กรณี ได้แก่ Transition, Addition, Decline และ Fossil Expansion (Quadrant Definition Matrix)
+**Table 1** เกณฑ์การจำแนกรูปแบบการเปลี่ยนแปลงของระบบไฟฟ้า 4 กรณี ได้แก่ Transition, Addition, Decline และ Fossil Expansion (Quadrant Definition Matrix)
 
 ![Table 1-2](images/table1-2.png)
 
